@@ -1,0 +1,194 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	font-family: "Microsoft Yahei";
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.first{
+	width: 100%;
+	height:800px;
+	background: url(image/JJ1.png);	
+	background-repeat: no-repeat;
+}
+
+.logo{
+	text-align: center;
+	position: relative;
+	
+}
+.logo img{
+	margin-top: 10px;
+}
+.logo h6{
+	color: #FFFFFF;
+	margin: 5px;
+	font-size: 15px;
+}
+.login{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: auto;
+}
+.login ul{
+	float: right;
+	color: #5B5757;
+	padding:  0px 20px;
+
+}
+
+.login ul li{
+	list-style:none; /*去除li前面的点*/
+	float:left;/*是纵向的li改成横向的*/
+	padding: 0px 5px 0px 5px;
+	font-size: 20px;
+}
+
+.title{
+	width: auto;
+	height: auto;
+	text-align: center;
+}
+.title ul{
+	color: #FFFFFF;
+	text-align: center;
+	height: auto;
+	width: auto;
+	margin-left: 10%;
+}
+
+.title ul li{
+	list-style:none; /*去除li前面的点*/
+	float:left;/*是纵向的li改成横向的*/
+
+	width: 10%;
+}
+
+.container{
+	height: auto;
+	width: auto;
+	margin-top: 10px;
+}
+
+.el-col-12{
+	width: 50%;
+	overflow: hidden;
+}
+
+.News{
+	background-color: #F4F0ED;
+	width: 100%;
+	height: 453px;
+	position: relative;
+}
+
+.part{
+	width: 600px;
+	height: 300px;
+
+	position: relative;
+	
+}
+
+.talk{
+	height: 250px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+.part h1{
+	text-align: center;
+	padding-top: 20px;
+	
+}
+
+.part p{
+	padding:0px 0px 0px 60px;
+	width: auto;
+}
+
+.part p span{
+	padding-left: 30px;
+}
+
+.final{
+	position: absolute;
+	width: auto;
+	top: 0;
+	right: 0;
+	padding:25px 5px 0px 0px;
+	
+}
+
+.more{
+	text-align: center;
+	width:auto;
+    height:70px;
+}
+
+.btn{
+	width: 140px;
+	height: 40px; 
+	margin-top: 40px; 
+	background:none; 
+	border:1px #000 solid; 
+	border-radius:4px; /*实现圆角*/"
+}
+		
+.btn:hover{
+	background-color: #6E6D6D;/*鼠标经过变颜色*/
+}		
+
+.Social{
+	background-color: #EFF0F5;
+	height:auto;
+	
+}
+
+.Social h1{
+	-webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    text-align: center;
+    padding-top: 40px;
+}
+.pailie{
+	width: 100%;
+	
+	margin-top: 20px;
+	overflow: hidden;
+	padding: 10px 2% ;	
+	border: 1px solid #dcdcdc;
+}
+
+.pailie img{
+	margin-left: 2%;
+	overflow: hidden;
+	width: 96%;
+	height: 350px;
+}
+.text1{
+	height: 50px;
+	margin: 5px 0 0 10px;
+}
+
+.btn2{
+	text-align: center;
+	height: 200px;
+}
+
+.btn1{
+	width: 200px;
+	height: 40px; 
+	margin-top: 80px; 
+	background:none; 
+	border:1px #000 solid; 
+	border-radius:4px; /*实现圆角*/"
+	font-size: 100px;
+
+}
+		
+.btn1:hover{
+	background-color: #6E6D6D;/*鼠标经过变颜色*/
+}	
+
